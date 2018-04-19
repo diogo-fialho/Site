@@ -751,7 +751,7 @@ form label {
 }
 .feature-left .feature-copy {
   float: right;
-  width: 85%;
+  width: 50%;
 }
 .feature-left .feature-copy h3 {
   font-size: 18px;
