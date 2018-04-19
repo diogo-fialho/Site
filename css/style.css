@@ -2030,9 +2030,16 @@ form label {
   min-height: 700px;
 }
 #gtco-hero .flexslider .slider-text > .slider-text-inner h2 {
-  font-size: 60px;
-  font-weight: 300;
-  color: #fff;
+    font-size: 60px;
+    font-weight: 300;
+    color: #fff;
+    transition: all 1s ease-out;
+}
+#gtco-hero .flexslider .slider-text > .slider-text-inner h2:hover {
+    font-size: 60px;
+    font-weight: 300;
+    color: #a0d7ff;
+
 }
 @media screen and (max-width: 768px) {
   #gtco-hero .flexslider .slider-text > .slider-text-inner h2 {
