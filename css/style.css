@@ -758,7 +758,6 @@ form label {
   color: #1a1a1a;
   margin-bottom: 10px;
 }
-
 .gtco-heading {
   margin-bottom: 5em;
 }
@@ -2067,4 +2066,12 @@ form label {
   font-size: 22px;
 }
 
+.imgs img {
+  width: 400px;
+  height: 400px;
+}
+.prods h3 {
+  margin-top: 20px;
+  color: #FF5126;
+}
 /*# sourceMappingURL=style.css.map */
